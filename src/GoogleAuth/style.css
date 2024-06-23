@@ -1,0 +1,13 @@
+.full{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/80/859/695/coffee-beans-couple-wallpaper-preview.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 240px 375px;
+}
+h1{
+    font-weight: 900;
+}
+h4{
+    text-decoration: underline;
+}
